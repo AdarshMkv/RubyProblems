@@ -1,3 +1,5 @@
+#Count the number of occurrence of each leter in word "MISSISSIPPI". Store count of every leter with the leter in a dictionary.
+
 word = "MISSISSIPPI"
 
 frequencies = Hash.new(0)
