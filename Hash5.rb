@@ -1,3 +1,5 @@
+#From the previous question, sort according to the number of letters.
+
 word = "MISSISSIPPI"
 
 frequencies = Hash.new(0)
